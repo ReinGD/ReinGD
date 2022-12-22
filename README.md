@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @ReinGD, let's keep this basic 
 - 🌱 I’m currently learning Vulkan and Unreal Engine
 - 🛠 I specialize primarily in Engine, Graphics and Tools Programming for game development. 
-- ⚔Check out my portfolio here! https://reingd.github.io/portfolio/
-- 📫 How to reach me? Check out my LinkedIn and send me a connect request. https://www.linkedin.com/in/reingd
+- ⚔ Check out my portfolio here! https://reingd.github.io/portfolio/
+- 📫 How to reach me? 
+  * Check out my LinkedIn and send me a connect request. https://www.linkedin.com/in/reingd
+  * Or follow me on Mastodon <a rel="me" href="https://mastodon.gamedev.place/@ReinGD">@ReinGD</a>
+
+FYI:
 
 There are some elements of my projects that I have kept private on purpose, for example these projects:
 
