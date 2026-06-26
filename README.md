@@ -7,9 +7,6 @@
 - ⚔ Check out my portfolio here! https://reingd.github.io/portfolio/
 - 📫 How to reach me? 
   * Check out my LinkedIn and send me a connect request. https://www.linkedin.com/in/reingd
-  * Or follow me on socials
-    * <a rel="me" href="https://mastodon.gamedev.place/@ReinGD">Mastodon</a>
-    * <a rel="me" href="https://twitter.com/Rein_GD">Twitter (lol)</a>
   
 
 FYI:
